@@ -6,3 +6,5 @@
 * git add .
 * git push origin main
 * git commit -m "some message"
+* git checkout -b "new_branch"
+* git branch -d "a_branch_to_be_deleted"
